@@ -8,7 +8,7 @@ In this work, we proposed an automatic framework based on deep learning methods 
 Our codes are evaluated under python 3.7
 
 ## How to run
-1. Extract the Dataset.rar in the directory of files. 
+1. Extract the IC_Dataset.rar in the directory of files. 
 2. Run Data_Generator.py to generate data and targets.
 3. Run Kmeans_elbow_code.py to determine the best number of clusters (In the experiments, the best number of clutsers was 2)   
 4. Run Kmeans_code.py (This code is used for investing the threshold values between clusters and formulating the mapping labeling function) 
